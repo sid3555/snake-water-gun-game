@@ -1,6 +1,5 @@
-## Snake 🐍/Water 💦/ Gun 🔫 Game.
+## Snake 🐍/Water 💦/ Gun 🔫 Game {C++}
 
-## snake ,water &amp; gun game {C++}
 
 - Snake, Water, Gun  OR  Rock, Paper, Scissors is a game most of us have played during school time.
 - We wrote a C program capable of Playing this game.
